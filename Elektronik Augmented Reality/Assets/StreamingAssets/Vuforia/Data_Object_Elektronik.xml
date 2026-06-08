@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cpu" size="10.000000 10.000000" />
+    <ImageTarget name="keyboard" size="10.000000 6.654545" />
+    <ImageTarget name="lightning-usb" size="10.000000 10.000000" />
+    <ImageTarget name="baterai" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
