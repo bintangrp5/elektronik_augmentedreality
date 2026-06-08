@@ -154,5 +154,3 @@ Proyek ini membantu dalam memahami:
 ## 📄 License
 
 This project is developed for educational purposes.
-
-This project is developed for educational purposes.
